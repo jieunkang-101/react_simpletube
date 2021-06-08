@@ -14,6 +14,7 @@ A React application with Youtube API
 - It will display the most popular videos on splash screen
 - It has search functionality by keyword
 - _View working page at_ https://simpletube.netlify.app
+  <img src='./public/images/react_simpletube.png' width="360px">
 
 ## Getting Started
 
